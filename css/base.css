@@ -1,0 +1,42 @@
+html {
+  color: #818A8F;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 10px;
+}
+
+body {
+  margin: 0.8rem;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+p {
+  margin: 0.5rem;
+}
+
+.event {
+  padding: 2rem;
+  border-bottom: 0.1rem solid #E8ECED;
+  font-size: 1.6rem;
+}
+
+.time-place {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
+.title {
+  color: #72797C;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.description {
+  margin: 0.5rem 0 0;
+  font-size: 1.4rem;
+}
